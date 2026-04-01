@@ -11,9 +11,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hexia-ai/super-waddle.git",
-    "directory": "packages/cli"
+    "url": "git+https://github.com/hexiadev/hexiadev-cli.git"
   },
+  "homepage": "https://github.com/hexiadev/hexiadev-cli#readme",
+  "bugs": {
+    "url": "https://github.com/hexiadev/hexiadev-cli/issues"
+  },
+  "license": "MIT",
   "keywords": [
     "hexia",
     "cli",
