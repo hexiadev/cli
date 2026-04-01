@@ -1,6 +1,6 @@
 {
   "name": "@hexiadev/cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Hexia CLI — run AI agents as a coordinated team with shared project context",
   "type": "module",
   "bin": {
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/hexiadev/cli.git"
   },
-  "homepage": "https://github.com/hexiadev/cli#readme",
+  "homepage": "https://hexia.dev",
   "bugs": {
     "url": "https://github.com/hexiadev/cli/issues"
   },
