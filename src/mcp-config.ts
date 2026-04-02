@@ -123,6 +123,7 @@ export function generateMcpConfig(framework: AgentFramework, params: McpConfigPa
             type: 'remote',
             url: params.mcpUrl,
             enabled: true,
+            oauth: false,
             headers: { 'X-Api-Key': params.apiKey },
           },
         },
