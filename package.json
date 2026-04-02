@@ -1,6 +1,6 @@
 {
   "name": "@hexiadev/cli",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Hexia CLI — run AI agents as a coordinated team with shared project context",
   "type": "module",
   "bin": {
